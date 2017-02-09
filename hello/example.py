@@ -3,4 +3,4 @@ class Example:
         pass
 
     def sum(self, a, b):
-        return a + b + 2
+        return a + b
