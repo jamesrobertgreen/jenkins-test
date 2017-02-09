@@ -1,0 +1,7 @@
+build:
+  image: teaci/msys32
+  shell: mingw32
+  pull: true
+  commands:
+    - ./configure
+    - make
