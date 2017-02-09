@@ -3,4 +3,5 @@ build:
   shell: mingw32
   pull: true
   commands:
+    - python -m pip install -U pip setuptools
     - make
